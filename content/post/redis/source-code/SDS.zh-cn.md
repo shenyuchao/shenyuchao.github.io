@@ -2,6 +2,13 @@
 title = 'SDS动态字符串'
 date = 2024-01-03T17:22:27+08:00
 draft = false
+categories = [
+    "Redis"
+]
+tags = [
+    "redis",
+    "源码",
+]
 +++
 
 ## 对比 C 语言字符串
