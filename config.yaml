@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://shenyuchao.github.com
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
@@ -38,7 +38,7 @@ params:
     favicon: /favicon.ico # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
     footer:
-        since: 2020
+        since: 2022
         customText:
 
     dateFormat:
